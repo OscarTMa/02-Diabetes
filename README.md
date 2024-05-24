@@ -1,7 +1,3 @@
-Certainly! Here's an introduction for a GitHub repository where you store health-related notebooks:
-
----
-
 # Health Data Analysis Notebooks
 
 Welcome to the Health Data Analysis Notebooks repository! This repository contains a collection of Jupyter notebooks focused on various aspects of health data analysis. These notebooks are designed to help researchers, data scientists, and health professionals explore and analyze health-related data using a variety of tools and techniques.
@@ -67,7 +63,7 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 
 ## Contact
 
-If you have any questions or suggestions, please open an issue or contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, please open an issue or contact us at [oscartibaduiza@hotmail.com].
 
 ---
 
